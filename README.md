@@ -1,4 +1,5 @@
 # testerforpyophidia
 
 
-This repo aims to test the pyophida additions of sqaaas
+This repo aims to test the pyophida additions of sqaaas. 
+Testing api
